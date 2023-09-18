@@ -1,3 +1,4 @@
+#Variable is containers for string data values
 name = "Monika"
 print (name)
 print ("Hi " +  name)
